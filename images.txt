@@ -1,1 +1,1 @@
-ollama/ollama
+python:3.9-slim
