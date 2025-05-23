@@ -1,3 +1,4 @@
+nginx
 neosmemo/memos:stable
 n8nio/n8n:latest
 ihmily/douyin-live-recorder:latest
