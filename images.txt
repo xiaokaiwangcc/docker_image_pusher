@@ -4,3 +4,4 @@ n8nio/n8n:latest
 ihmily/douyin-live-recorder:latest
 jellyfin/jellyfin
 ollama/ollama:latest
+alexta69/metube:latest
