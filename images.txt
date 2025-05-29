@@ -1,3 +1,4 @@
+jiangrui1994/cloudsaver:test
 nginx
 neosmemo/memos:stable
 n8nio/n8n:latest
