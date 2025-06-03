@@ -1,4 +1,3 @@
-umi-ocr-paddle
 debian:11-slim
 jiangrui1994/cloudsaver:test
 nginx
