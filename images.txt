@@ -1,3 +1,4 @@
+sigoden/dufs
 redis:7-alpine
 node:18-alpine
 henrygd/beszel-agent
