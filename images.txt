@@ -1,3 +1,4 @@
+star7th/coolmonitor:latest
 sigoden/dufs
 redis:7-alpine
 node:18-alpine
