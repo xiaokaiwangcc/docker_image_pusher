@@ -1,3 +1,4 @@
+photoprism/photoprism:latest
 infiniflow/ragflow:v0.19.1
 elasticsearch:8.11.3
 hub.icert.top/opensearchproject/opensearch:2.19.1
