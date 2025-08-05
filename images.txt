@@ -1,3 +1,4 @@
+vllm/vllm-openai:latest
 photoprism/photoprism:latest
 infiniflow/ragflow:v0.19.1
 elasticsearch:8.11.3
