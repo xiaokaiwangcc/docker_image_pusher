@@ -23,3 +23,4 @@ ihmily/douyin-live-recorder:latest
 jellyfin/jellyfin
 ollama/ollama:latest
 alexta69/metube:latest
+node:20-alpine
