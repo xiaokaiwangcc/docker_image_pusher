@@ -24,3 +24,4 @@ jellyfin/jellyfin
 ollama/ollama:latest
 alexta69/metube:latest
 node:20-alpine
+ghcr.io/fish2018/pansou:latest
